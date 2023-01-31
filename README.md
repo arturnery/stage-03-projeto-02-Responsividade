@@ -41,7 +41,7 @@ O projeto foi feito com o intuito de deixar a pagina responsiva para a versao de
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/UPgslV8HpBkpWUawX5zGcl/Habits-(e)-(Community)?node-id=75%3A128&t=rIYw9cDM1okxt0Xv-0>) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/bwBAH4OOnxXVNdL15PtifD/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412&t=incY6mD91QUNGPz1-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
