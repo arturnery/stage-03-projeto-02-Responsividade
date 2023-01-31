@@ -8,8 +8,6 @@ Projeto desenvolvido no curso Explorer da Rockeatseat, com o objetivo de tornar 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>![image](https://user-images.githubusercontent.com/105114471/215638478-2857946e-bb79-4d56-a57d-9781c72648b6.png)
-
 </p>
 
 <p align="center">
