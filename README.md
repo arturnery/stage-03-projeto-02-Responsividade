@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi feito com o intuito de deixar a pagina responsiva para a versao desktop e mobile.
 
-- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer/)
+- [Visite o projeto online](https://arturnery.github.io/stage-03-projeto-02-Responsividade)
 
 ## 🔖 Layout
 
